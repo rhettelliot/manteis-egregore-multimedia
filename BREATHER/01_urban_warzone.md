@@ -78,71 +78,71 @@ The breath is the border they cannot cross. This is the BreatHER protocol. Let's
 ### ACT I — THE VOID (Establishing)
 
 #### Frame 01 — The Grid
-**Still Image Prompt:** A vast, dark abstract grid diagram on dark slate #0D0F12. Thin white grid lines at 8% opacity stretching to a vanishing point. Small orange #FF5500 nodes at grid intersections, pulsing faintly. A large faint number "01" in cream at 15% opacity, centered in the upper third. Monospace-style labels in muted blue-grey #9EA4B0 reading "FREQ: 16.0 BPM" and "STATUS: REACTIVE" in the lower left. Swiss design brutalism. Sharp corners. 8K resolution. No photographs. No people. No text other than labels. No organic shapes.
+**Still Image Prompt:** A vast dark abstract perspective grid receding into a vanishing point on dark slate #0D0F12. Thin white grid lines at 8% opacity stretching into deep space. Small sharp orange #FF5500 nodes at grid intersections. The overall feeling is a digital landscape receding into darkness — like looking into the architecture of a hostile system. Swiss design brutalism aesthetic. Sharp corners. 8K resolution. No photographs. No people. No text. No organic shapes. No soft edges.
 
 **Animation Prompt:** Slow push-in toward the vanishing point. The orange nodes pulse at 16 BPM — fast, anxious rhythm. The grid lines shimmer slightly, like a digital signal degrading.
 
-**Remotion Overlay:** TerminalAnimation opening, then KineticTypography "THE PRIMARY THEATER OF CONFLICT", PhaseCard "CHAPTER 01"
+**Remotion Overlay:** TerminalAnimation: "BREATHER // INITIALIZING PROTOCOL // STATUS: ACTIVE". KineticTypography: "THE PRIMARY THEATER OF CONFLICT". PhaseCard: "CHAPTER 01 / THE URBAN WARZONE". Bottom-left mono label: "FREQ: 16.0 BPM" / "STATUS: REACTIVE".
 **Audio Cue:** Dark drone begins. Low frequency. Sub-bass hum. No melody. Tension.
 
 #### Frame 02 — The Architecture
-**Still Image Prompt:** An abstract architectural schematic on dark slate #0D0F12. A complex network diagram showing concentric rings connected by thin lines, each ring labeled with monospace text in muted blue-grey #9EA4B0: "ATTENTION", "CONSENT", "BEHAVIOR", "RESPONSE". The rings narrow toward a central dark point. Orange #FF5500 signal traces flow inward along the connecting lines toward the center, like data being extracted. A large faint number "01" in cream at 15% opacity in the background. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No organic shapes.
+**Still Image Prompt:** An abstract network schematic on dark slate #0D0F12. Concentric rings connected by thin lines, narrowing toward a central dark point. Orange #FF5500 signal traces flow inward along the connecting lines toward the center, like data being extracted from the outer rings and pulled into a dark core. The rings are thin, sharp, geometric — not organic. The composition feels like a diagram of something being harvested. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes.
 
 **Animation Prompt:** The orange signal traces pulse inward along the lines toward the center. The concentric rings contract slightly with each pulse. The rhythm is 16 BPM — matching the anxious breath rate.
 
-**Remotion Overlay:** None — let the image breathe. Voice carries the weight.
+**Remotion Overlay:** Ring labels appear via Remotion: "ATTENTION" → "CONSENT" → "BEHAVIOR" → "RESPONSE" fading in sequentially on each ring. No other text.
 **Audio Cue:** Drone continues. A faint electronic texture layer added — like static or interference.
 
 ### ACT II — THE EXTRACTION
 
 #### Frame 03 — The Extraction Map
-**Still Image Prompt:** A dark abstract data visualization on dark slate #0D0F12. A horizontal waveform graph spanning the full width, showing a fast, jagged, erratic signal (representing 16-20 breaths per minute). The waveform is in orange #FF5500, thin and sharp. Below it, a second waveform shows a slow, smooth, controlled signal (representing 4 breaths per minute) in cream #F4F3EE. The contrast between the two waveforms is the visual thesis. Monospace labels in muted blue-grey #9EA4B0: "REACTIVE: 16-20 BPM" and "SOVEREIGN: 4 BPM". A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people.
+**Still Image Prompt:** A dark abstract data visualization on dark slate #0D0F12. A horizontal waveform spanning the full width, showing a fast, jagged, erratic signal in thin sharp orange #FF5500. Below it, a second horizontal waveform shows a slow, smooth, controlled signal in cream #F4F3EE. The two waveforms sit one above the other, separated by dark space. The contrast between the top chaos and bottom calm is the visual thesis. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes.
 
 **Animation Prompt:** The top waveform (orange, jagged) pulses rapidly. The bottom waveform (cream, smooth) barely moves. The contrast is the point — two operating systems, two frequencies.
 
-**Remotion Overlay:** StatReveal "16-20 BREATHS/MIN" in orange, then "THEIR RHYTHM" in cream below
+**Remotion Overlay:** StatReveal: "16-20 BREATHS/MIN" in orange above the top waveform. "THEIR RHYTHM" in cream below. Mono labels: "REACTIVE" (top) / "SOVEREIGN" (bottom).
 **Audio Cue:** The drone rhythm accelerates slightly, matching the jagged waveform. Anxiety builds.
 
 #### Frame 04 — The Latency Gap
-**Still Image Prompt:** An abstract technical diagram on dark slate #0D0F12. A horizontal timeline with two markers: "STIMULUS" on the left in orange #FF5500, "RESPONSE" on the right in cream #F4F3EE. Between them, a narrowing gap labeled "LATENCY" in monospace muted blue-grey #9EA4B0. The gap is being compressed by two converging lines from top and bottom, like a vise. Small orange particles flow through the gap, representing automated responses bypassing conscious choice. A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No organic shapes.
+**Still Image Prompt:** An abstract technical diagram on dark slate #0D0F12. Two vertical bars — one on the left in orange #FF5500, one on the right in cream #F4F3EE — with a visible space between them. The space between the bars is being compressed by two converging diagonal lines from top and bottom, like a vise squeezing shut. Small orange particles flow through the narrowing gap from left to right. The composition is simple, geometric, and tense. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes.
 
-**Animation Prompt:** The gap between STIMULUS and RESPONSE narrows slowly. The orange particles flow faster as the gap closes. The vise tightens.
+**Animation Prompt:** The gap between the two bars narrows slowly. The orange particles flow faster as the gap closes. The converging lines tighten like a vise.
 
-**Remotion Overlay:** None. Voice: "The microseconds of latency between a stimulus and your response — that's the only place free will exists."
+**Remotion Overlay:** Left bar label: "STIMULUS" in orange. Right bar label: "RESPONSE" in cream. Center label: "LATENCY" in mono blue-grey, shrinking as the gap closes.
 **Audio Cue:** A rising tone — barely perceptible — building pressure.
 
 ### ACT III — THE BREATH AS BORDER
 
 #### Frame 05 — The Breath as Border
-**Still Image Prompt:** An abstract schematic on dark slate #0D0F12. A horizontal dividing line across the center of the frame. Above the line: chaos — jagged orange #FF5500 waveforms, scattered data points, noise, monospace labels reading "EXTERNAL: PACING / NOTIFICATIONS / FEED" in muted blue-grey #9EA4B0. Below the line: order — a single smooth cream #F4F3EE waveform, clean grid lines, a monospace label reading "INTERNAL: SOVEREIGN" in muted blue-grey. The dividing line is sharp, bright orange, 2px thick. A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No organic shapes.
+**Still Image Prompt:** An abstract schematic on dark slate #0D0F12. A sharp bright orange #FF5500 horizontal line divides the frame exactly in half. Above the line: visual chaos — jagged fragmented waveforms, scattered geometric noise, erratic shapes in a desaturated red-orange. Below the line: visual order — a single smooth cream #F4F3EE waveform, clean thin grid lines, calm structured space. The orange dividing line is the sharpest element in the frame. The contrast between above and below is extreme. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes.
 
-**Animation Prompt:** Above the line, chaos intensifies — more noise, faster waveforms. Below the line, perfect calm — the single waveform breathes slowly. The orange dividing line holds firm. The contrast builds.
+**Animation Prompt:** Above the line, chaos intensifies — more noise, faster fragments. Below the line, perfect calm — the single waveform breathes slowly. The orange dividing line holds firm. The contrast builds.
 
-**Remotion Overlay:** KineticTypography "THE BREATH IS THE BORDER" in orange, center frame. AnimatedCounter 20→16→8→4→1 top-right.
+**Remotion Overlay:** KineticTypography: "THE BREATH IS THE BORDER" in orange #FF5500, center frame. AnimatedCounter: 20→16→8→4→1 in JetBrains Mono, top-right. Above-line label: "EXTERNAL" / below-line label: "INTERNAL" in mono blue-grey.
 **Audio Cue:** The drone peaks in intensity, then cuts. One second of silence. Then a single low tone — the breath cue. The meditation is about to begin.
 
 #### Frame 06 — The First Breath
-**Still Image Prompt:** A minimalist abstract diagram on dark slate #0D0F12. A single mechanical ring — thin, sharp, orange #FF5500 — centered in the frame. The ring is at its smallest state (representing the end of an exhale). Inside the ring, monospace text in muted blue-grey #9EA4B0: "BREATH 01 / CYCLE 01". Outside the ring, thin grid lines at 8% opacity. A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No organic shapes. The ring is mechanical, not soft. It looks like a technical instrument, not a meditation bubble.
+**Still Image Prompt:** A minimalist abstract diagram on dark slate #0D0F12. A single thin sharp orange #FF5500 ring centered in the frame, at its smallest state — a tight mechanical circle. The ring is hard-edged and technical, like a sonar display or a targeting reticle, not a soft bubble. Thin white grid lines at 8% opacity in the background. The composition is stark — one ring in vast darkness. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes. No glow. No bloom.
 
 **Animation Prompt:** The ring begins to expand — slowly, mechanically, precisely. This is the first inhale of the meditation. The expansion takes 4 seconds (matching a 4-count inhale).
 
-**Remotion Overlay:** BreathVisualizer component activates. Counter shows "INHALE: 1...2...3...4" in JetBrains Mono, orange.
+**Remotion Overlay:** BreathVisualizer activates. Counter: "INHALE: 1...2...3...4" in JetBrains Mono, orange. Inside ring: "BREATH 01 / CYCLE 01" in mono blue-grey. Bottom-left: "FREQ: 16.0 BPM → 4.0 BPM".
 **Audio Cue:** Silence. Then a single low tone at the start of inhale. The drone drops to 5% volume. The practice begins.
 
 #### Frame 07 — The Hold
-**Still Image Prompt:** The same mechanical ring as Frame 06, now at full expansion (representing the hold at the top of the inhale). The ring is bright orange #FF5500, glowing with contained energy. Inside the ring: "HOLD" in monospace muted blue-grey #9EA4B0. The grid lines around it are perfectly still. A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people.
+**Still Image Prompt:** The same orange #FF5500 mechanical ring from Frame 06, now at full expansion — a large sharp circle filling most of the frame. The ring is bright solid orange, hard-edged, no glow, no bloom. The ring is sharp and bright, not luminous. Thin white grid lines at 8% opacity in the background, perfectly still. The composition conveys contained energy through geometry, not through soft lighting effects. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes.
 
 **Animation Prompt:** The ring holds at full expansion. Perfect stillness. Not a tremor. The held breath.
 
-**Remotion Overlay:** Counter shows "HOLD: 1...2...3...4" in JetBrains Mono, orange.
+**Remotion Overlay:** Counter: "HOLD: 1...2...3...4" in JetBrains Mono, orange. Inside ring: "HOLD" in mono blue-grey.
 **Audio Cue:** Silence. Complete silence. The drone stops. Just the tone.
 
 #### Frame 08 — The Exhale
-**Still Image Prompt:** The same mechanical ring, now contracting back to its smallest state (representing the exhale). The ring dims from bright orange to a darker orange as it contracts. Inside the ring: "EXHALE" in monospace muted blue-grey #9EA4B0. The grid lines around it seem to release tension. A large faint "01" in cream at 15% opacity. Swiss design brutalism. Sharp corners. 8K. No photographs. No people.
+**Still Image Prompt:** The same orange #FF5500 mechanical ring, now at mid-contraction — smaller than Frame 07 but larger than Frame 06. The ring is a darker, deeper orange at this state. Thin white grid lines at 8% opacity in the background. The composition feels like a system releasing pressure — controlled, mechanical, deliberate. Swiss design brutalism. Sharp corners. 8K. No photographs. No people. No text. No organic shapes. No glow.
 
 **Animation Prompt:** The ring contracts smoothly over 4 seconds. As it contracts, the chaos from Frame 05 (the noise above the border line) fades completely. The frame ends in near-silence and stillness. The first breath cycle is complete.
 
-**Remotion Overlay:** Counter shows "EXHALE: 1...2...3...4" in JetBrains Mono, orange. Then "CYCLE 01 COMPLETE" flashes briefly.
+**Remotion Overlay:** Counter: "EXHALE: 1...2...3...4" in JetBrains Mono, orange. Then "CYCLE 01 COMPLETE" flashes briefly. Inside ring: "EXHALE" in mono blue-grey.
 **Audio Cue:** Low tone marks exhale start. Drone returns at 5%. The tension from Act I is gone. The practice has begun.
 
 ---
