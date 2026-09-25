@@ -182,17 +182,46 @@ Each `XX_scene_name.md` file contains:
 ### Closing Title Card (ALL videos)
 Every video ends with: orange bar + "MANTEIS EGREGORE" wordmark + instrument codename + "manteis.systems" URL + sharp fade to black. No soft fade. No gentle music outro. Hard cut to black.
 
-## 8. Credit Budget (Higgsfield 1200cr/mo)
+## 8. Production Pipeline — Google Flow + Higgsfield (Hybrid)
+
+### Still Generation: Google Flow (FREE — included in Google AI Pro)
+Rhett generates stills manually in Google Flow using Nano Banana Pro 2. No Higgsfield credits spent on stills. This is the same hybrid pipeline proven on the Red Shift Mantra visual album.
+
+**Flow prompt optimization:** Gemini (which powers Flow) responds better to natural language descriptions than to structured metadata format. The prompts in the scene files are written as descriptive paragraphs — they work as-is in Flow. Paste the "Still Image Prompt" text directly into Flow.
+
+**Workflow:**
+1. Rhett pastes each frame's "Still Image Prompt" into Google Flow
+2. Flow generates 3-4 variations per prompt (free, unlimited)
+3. Rhett picks the winner — the one that best matches the bio-tactical aesthetic
+4. Save winning stills to the scene folder (e.g. `BREATHER/stills/01_grid.png`)
+5. Retries losers for free in Flow — no credit cost
+
+### Animation: Higgsfield (Seedance 2.0 — credits only on winners)
+Only the winning stills get animated in Higgsfield. This is where credits are spent.
+
+**Seedance --start-image command:**
+```bash
+higgsfield generate create seedance_2_0 \
+  --start-image ./BREATHER/stills/01_grid.png \
+  --prompt "Slow push-in toward vanishing point, grid nodes pulsing at 16 BPM" \
+  --duration 5 \
+  --resolution 1080p \
+  --wait --wait-timeout 20m
+```
+
+### Credit Budget (Higgsfield 1200cr/mo — ANIMATION ONLY)
 
 | Asset Type | Cost | Monthly Estimate |
 |-----------|------|-----------------|
-| Stills (GPT Image 2) | 2cr each | ~60 stills = 120cr |
-| Animation (Seedance 720p 5s) | 22.5cr each | ~20 clips = 450cr |
-| Animation (Seedance 720p 8s) | 36cr each | ~10 clips = 360cr |
-| Retakes/R&D | variable | ~150cr |
-| **Total** | | **~1080cr** (90% of budget) |
+| Stills (Google Flow) | **FREE** | Unlimited |
+| Animation (Seedance 720p 5s) | 22.5cr each | ~24 clips = 540cr |
+| Animation (Seedance 720p 8s) | 36cr each | ~12 clips = 432cr |
+| Retakes/R&D | variable | ~100cr |
+| **Total** | | **~1072cr** (89% of budget) |
 
-One instrument per month. 16 instruments = 16 months. Or batch the 12 shorter instruments at 2-3 per month after the 4 protocols are done.
+Stills are free → we can generate MORE stills per scene (10+ per frame) and only animate the strongest 15-20 per instrument. This roughly doubles the visual quality at the same credit cost.
+
+**One instrument per month for the 4 protocols. Then 2-3 instruments per month for the 12 shorter ones. Full catalog: ~8-10 months.**
 
 ## The Director's Template (Required for ALL prompts)
 
