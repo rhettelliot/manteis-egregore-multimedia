@@ -47,6 +47,27 @@ The breath is the border they cannot cross. This is the BreatHER protocol. Let's
 
 ## Remotion Overlay
 
+### Universal Format: 16:9 Master + Branded Bars for Vertical
+
+One master render at 1920×1080 (16:9). For TikTok/Reels/Shorts, Remotion wraps the 16:9 in a 1080×1920 (9:16) frame with branded black bars top and bottom. The bars are NOT dead space — they're part of the design.
+
+**Top bar (1080×420, solid #0D0F12):**
+- Left: blinking orange dot + `BREATHER` in Inter Bold, cream
+- Right: breath counter `16.0 BPM` in JetBrains Mono, orange — updates live as the counter ticks down (20→16→8→4→1)
+- 1px orange #FF5500 bottom border separating bar from video
+
+**Center (1080×1080):**
+- The 16:9 video, cropped to fill or letterboxed depending on composition
+- For grid/waveform/border stills: center crop (sides trimmed) — compositions are designed around center axis
+- For ring stills: the ring is centered, crops clean
+
+**Bottom bar (1080×420, solid #0D0F12):**
+- Center: `MANTEIS EGREGORE` in Inter Medium, cream, letter-spaced
+- Below: `manteis.systems` in JetBrains Mono, muted blue-grey #9EA4B0
+- 1px orange #FF5500 top border separating bar from video
+
+**Transition:** First 2 seconds, top bar shows `↻ TURN PHONE` in orange with a rotating phone icon. Fades. Replaced by the live counter. This is the only platform-specific element — can be removed for YouTube render.
+
 ### Opening (0:00-0:05)
 - **TerminalAnimation:** `BREATHER // INITIALIZING PROTOCOL // STATUS: ACTIVE`
 - Black screen. Terminal window appears top-left. Types out the line. Green status dot blinks.
@@ -147,17 +168,27 @@ The breath is the border they cannot cross. This is the BreatHER protocol. Let's
 
 ---
 
-## Video Segment Map (7 Videos)
+## Video Segment Map (5 Seedance + 2 Remotion-Native)
 
-| Video | Start Frame | End Frame | Transition |
-|:------|:------------|:----------|:-----------|
-| V01 | Frame 01 | Frame 02 | Slow push-in toward vanishing point, grid nodes pulsing at 16 BPM |
-| V02 | Frame 02 | Frame 03 | Orange signal traces pulse inward, rings contract. Cross-dissolve to waveform graph |
-| V03 | Frame 03 | Frame 04 | Jagged waveform pulses rapidly. Cut to latency gap diagram |
-| V04 | Frame 04 | Frame 05 | Latency gap narrows, particles accelerate. Hard cut to border diagram. Silence. |
-| V05 | Frame 05 | Frame 06 | Border line holds, chaos above intensifies. Hard cut to mechanical ring at smallest state. Breath begins. |
-| V06 | Frame 06 | Frame 07 | Ring expands over 4 seconds (inhale). Holds at full expansion (hold). |
-| V07 | Frame 07 | Frame 08 | Ring holds (hold continues). Contracts over 4 seconds (exhale). Chaos fades. Stillness. |
+| Video | Method | Start Frame | End Frame | Transition |
+|:------|:-------|:------------|:----------|:-----------|
+| V01 | Seedance 5s | Frame 01 | Frame 02 | Slow push-in toward vanishing point, grid nodes pulsing at 16 BPM |
+| V02 | Seedance 5s | Frame 02 | Frame 03 | Orange signal traces pulse inward, rings contract. Cross-dissolve to waveform graph |
+| V03 | Seedance 5s | Frame 03 | Frame 04 | Jagged waveform pulses rapidly. Cut to latency gap diagram |
+| V04 | Seedance 5s | Frame 04 | Frame 05 | Latency gap narrows, particles accelerate. Hard cut to border diagram. Silence. |
+| V05 | Seedance 5s | Frame 05 | Frame 06 | Border line holds, chaos above intensifies. Hard cut to mechanical ring. Breath begins. |
+| V06 | **Remotion** | Frame 06 | Frame 07 | Ring expands over 4s (inhale: 1-2-3-4). Holds at full expansion 4s (hold: 1-2-3-4). CSS scale transform on F06 still. Zero credits. |
+| V07 | **Remotion** | Frame 07 | Frame 08 | Ring contracts over 4s (exhale: 1-2-3-4). CSS scale transform. Counter shows CYCLE 01 COMPLETE. Zero credits. |
+
+**Seedance cost: 5 clips × 22.5cr = 112.5 credits (9% of monthly budget)**
+
+### Export Formats
+
+| Format | Dimensions | Platform | Notes |
+|--------|-----------|----------|-------|
+| Master | 1920×1080 (16:9) | YouTube | Full composition, no bars |
+| Vertical | 1080×1920 (9:16) | TikTok, Reels, Shorts | 16:9 center-cropped + branded top/bottom bars |
+| Audio-only | MP3 | Podcast, Spotify | Voiceover + music bed, no video |
 
 ---
 
